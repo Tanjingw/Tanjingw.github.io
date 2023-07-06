@@ -1,5 +1,5 @@
 ---
-title: 'What Influences Fertility Plans of China's Migrant Populations? Mechanism Analysis Based on House Prices Perspective'
+title: 'What Influences Fertility Plans of China Migrant Populations? Mechanism Analysis Based on House Prices Perspective'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
