@@ -42,6 +42,7 @@ sections:
     content:
       title: Publications
       text: |-
+      count: 5
       filters:
         folders:
           - publication
