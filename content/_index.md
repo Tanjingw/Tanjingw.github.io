@@ -43,10 +43,12 @@ sections:
     content:
       title: Publications
       text: |-
+      count: 5
       filters:
         folders:
           - publication
         exclude_featured: true
+      offset: 0
     design:
       columns: '2'
       view: citation
