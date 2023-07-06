@@ -1,5 +1,5 @@
 ---
-title: 'Are cities with high railways more attractive for labour settlement? Micro-evidence from China Migrants Dynamic Survey '
+title: 'Are cities with high-speed railways more attractive for labour settlement? Micro-evidence from China Migrants Dynamic Survey '
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
