@@ -46,8 +46,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'content/publication/cisai/cisai.pdf'
+url_dataset: 'content/publication/cisai/code.zip'
 
 
 # Featured image
