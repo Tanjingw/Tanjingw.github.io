@@ -47,13 +47,8 @@ featured: false
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -78,12 +73,4 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Computer simulation is a common research method in the field of evolutionary game. This paper introduce a selection on the strategy of both buyers and sellers for participating in livestreaming e-commerce model by aiming at the current development of livestreaming e-commerce. We study the platform’s third-party incentive mechanism to construct the buyers-sellers evolutionary game model by aiming at the hypothesis of bounded rationality. To slove the evolutionarily stable strategy by the stability principle, we figure out the systematic stable development conditions by the quantitative language, and conduct the numerical simulation for the evolutionarily stable strategy under different parameters by the Matlab. As what it was shown by the results: buyers and consumer’s concern and investment on online livestreaming shopping form are closely related to its yield rate, cost, and interest acquired from “free riding”; Platform incentive has significant positive impact on the investment willingness of both game parties. As the gaining rate of investment income increases gradually, both game parties’ probability of selecting concern and investment is increasing accordingly and many evolutionary stable strategies may emerge.
