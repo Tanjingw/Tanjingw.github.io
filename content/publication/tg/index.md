@@ -1,5 +1,5 @@
 ---
-title: 'Three Gorges Navigation and Urban Economic Development:A study based on DMSP/OLS satellite lighting data'
+title: 'Three Gorges Navigation and Urban Economic Development: A study based on DMSP/OLS satellite lighting data'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
