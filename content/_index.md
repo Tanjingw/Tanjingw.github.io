@@ -18,7 +18,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 2
       # Filter on criteria
       filters:
         folders:
@@ -42,7 +42,6 @@ sections:
     content:
       title: Publications
       text: |-
-      count: 5
       filters:
         folders:
           - publication
