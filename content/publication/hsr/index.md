@@ -27,8 +27,8 @@ publishDate: '2023-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication:  *under review*
-publication_short:  *under review*
+publication:  In *under review*
+publication_short:  In *under review*
 
 abstract: 
 
