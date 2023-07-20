@@ -27,8 +27,8 @@ publishDate: '2022-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *under review*
-publication_short: In *under review*
+publication: In *2021 China Economics Annual Conference*
+publication_short: In *2021 China Economics Annual Conference*
 
 abstract: 
 
