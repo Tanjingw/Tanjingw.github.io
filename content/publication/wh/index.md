@@ -6,7 +6,7 @@ title: 'Working Hours and Migrants Settlement Intention'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - N. Trifkovic
+  - N. Trifkovic（supervisor）
 
 
 # Author notes (optional)
@@ -27,8 +27,8 @@ publishDate: '2023-01-04T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication:  In *working paper*
-publication_short:  In *working paper*
+publication:  In *master thesis*
+publication_short:  In *master thesis*
 
 abstract: 
 
