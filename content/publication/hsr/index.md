@@ -11,7 +11,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 
+  - 'Corresponding Author'
 
 
 date: '2023-07-01T00:00:00Z'
