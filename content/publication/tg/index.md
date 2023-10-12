@@ -10,7 +10,6 @@ authors:
 
 
 # Author notes (optional)
-author_notes: 
 author_notes: Corresponding Author
 
 
