@@ -10,12 +10,12 @@ authors:
 
 
 # Author notes (optional)
+author_notes: 
 author_notes: Corresponding Author
-  
 
 
 date: '2022-07-01T00:00:00Z'
-doi: 'https://drive.google.com/file/d/13_MnA-aohZXyW4OFtxlQaYRxC6yuRm5s/view?usp=sharing'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-01-01T00:00:00Z'
@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content/publication/tg/tg.pdf'
+url_pdf: 'https://drive.google.com/file/d/13_MnA-aohZXyW4OFtxlQaYRxC6yuRm5s/view?usp=sharing'
 
 
 
