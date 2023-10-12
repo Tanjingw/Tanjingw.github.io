@@ -1,21 +1,21 @@
 ---
-title: 'Three Gorges Navigation and Urban Economic Development: A study based on DMSP/OLS satellite lighting data'
+title: 'Can transportation infrastructure development attract FDI? Evidence from the navigation of Yangtze River.'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Shixi Kang
+  - Hongyan Jia
   - admin
 
 
 # Author notes (optional)
-author_notes:
+author_notes: Corresponding Author
   
 
 
 date: '2022-07-01T00:00:00Z'
-doi: ''
+doi: 'https://drive.google.com/file/d/13_MnA-aohZXyW4OFtxlQaYRxC6yuRm5s/view?usp=sharing'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-01-01T00:00:00Z'
@@ -53,4 +53,4 @@ url_pdf: 'content/publication/tg/tg.pdf'
 
 ---
 
-The navigation of the Three Gorges is of strategic importance in improving the modern transportation network and facilitating the flow of resources within the Yangtze River basin. This paper explores the economic effects and mechanisms of the navigation of the Three Gorges permanent locks on the prefecture-level cities in the Yangtze River basin using quasi-natural experiments and satellite lighting data as a proxy variable for economic levels by means of the difference-in-differences (DID) and difference-in-difference-in-differences (DDD). The results show that: (1) the economic level of cities increased significantly after the navigation of the Three Gorges, with a certain time lag effect; (2) the navigation of the Three Gorges promoted the development of the tertiary industry and further optimised the industrial structure; (3) the navigation of the Three Gorges significantly boosted the domestic freight capacity, providing strong support for releasing land transport resources and accelerating the flow of resources between Yangtze River basin.
+The construction of transport infrastructure can promote economic and trade development and attract international capital. The Yangtze River is the golden waterway in China, and the Three Gorges lock is an important shipping facility on the largest navigable river in China. Based on the quasi-natural experiment on the navigation of the Yangtze River, this paper investigates the impact of the Yangtze River's navigation on the attraction of international capital by neighbouring cities uses difference-in-differences (DID) model, and the results show that the Yangtze River's navigation increases the level of foreign capital utilisation by cities along the river by 20.4\%. The mechanism analysis shows that the Yangtze River navigation not only enhances the total amount of freight transport in the cities along the river and promotes the development of industrial enterprises, but also improves the financial pressure of the neighbouring cities along the Yangtze River and enhances the consumption capacity of the cities.
