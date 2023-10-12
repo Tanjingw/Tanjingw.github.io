@@ -1,5 +1,5 @@
 ---
-title: 'Can transportation infrastructure development attract FDI? Evidence from the navigation of Yangtze River.'
+title: 'Can transportation infrastructure development attract FDI? Evidence from the navigation of Yangtze River'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
