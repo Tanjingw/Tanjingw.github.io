@@ -47,7 +47,6 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'content/publication/cisai/cisai.pdf'
-url_dataset: 'content/publication/cisai/code.zip'
 
 
 
