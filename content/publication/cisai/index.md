@@ -27,8 +27,8 @@ publishDate: '2021-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2021 International Conference on Computer Information Science and Artificial Intelligence (CISAI)*
-publication_short: In *IEEE-CISAI*
+publication: In *2021 IEEE International Conference on Computer Information Science and Artificial Intelligence (CISAI)*
+publication_short: In *IEEE International Conference on Computer Information Science and Artificial Intelligence*
 
 abstract: 
 
