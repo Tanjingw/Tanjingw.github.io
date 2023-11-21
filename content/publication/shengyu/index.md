@@ -28,8 +28,8 @@ publishDate: '2022-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Available at SSRN*
-publication_short: In *Available at SSRN*
+publication: In *Book Chapter, Complexity Thinking and China’s Demography Within and Beyond Mainland China*
+publication_short: In *Book Chapter, Complexity Thinking and China’s Demography Within and Beyond Mainland China*
 
 abstract: 
 
