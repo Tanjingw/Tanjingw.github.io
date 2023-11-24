@@ -28,7 +28,7 @@ publishDate: '2022-01-01T00:00:00Z'
 publication_types: ['6']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Chapter 8, Complexity Thinking and China’s Demography Within and Beyond Mainland China: A Geopolitical Overview. edited by Armando Aliu, Springer Nature*
+publication: In *Chapter 8, Complexity Thinking and China’s Demography Within and Beyond Mainland China: A Geopolitical Overview. Springer Nature*
 publication_short: In *Book Chapter, Complexity Thinking and China’s Demography Within and Beyond Mainland China*
 
 abstract: 
