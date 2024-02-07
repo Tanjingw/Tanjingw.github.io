@@ -29,7 +29,7 @@ publication_types: ['6']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Book Chapter, Complexity Thinking and China’s Demography Within and Beyond Mainland China, edited by Armando Aliu, Springer Nature*
-publication_short: In *Book Chapter, Complexity Thinking and China’s Demography Within and Beyond Mainland China*
+publication_short: In *Book Chapter, Complexity Thinking and China’s Demography Within and Beyond Mainland China, Springer Nature*
 
 abstract: 
 
