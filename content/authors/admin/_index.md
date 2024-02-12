@@ -22,12 +22,12 @@ organizations:
     url: https://www.economics.ku.dk/research/top_publications/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Micrometric, Machine Learning and Causal Inference
+bio: My research interests include Microeconometrics, Demographic and Policy Evaluation
 
 # Interests to show in About widget
 interests:
-  - Microeconometrics
-  - Demographics
+  - Microeconometric
+  - Demographic
   - Policy Evaluation
   - Causal Inference
 # Education to show in About widget
