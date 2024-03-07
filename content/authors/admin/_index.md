@@ -22,14 +22,14 @@ organizations:
     url: https://www.economics.ku.dk/research/top_publications/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Microeconometrics, Demographic and Policy Evaluation
+bio: My research interests include Microeconometrics, Demographic and Policy Evaluation.
 
 # Interests to show in About widget
 interests:
-  - Microeconometric
+  - Microeconometrics
   - Demographic
   - Policy Evaluation
-  - Causal Inference
+  - Labor Economics
 # Education to show in About widget
 education:
   courses:
@@ -75,5 +75,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a postgraduate student at University of Copenhagen and my main research is Demographics. Specifically, my recent research is based on China Migrants Dynamics Survey that investigates the impact of urban characteristics on the social behaviour of migrant populations. Another project is a study of the impact of the Three Gorges Navigation Quasi-Natural Experiment on economic development.
+I am a postgraduate student at University of Copenhagen and my main research is Demographics and Labor Economics. Specifically, my recent research is based on China Migrants Dynamics Survey to investigate the impact of urban characteristics on the social behaviour of migrants. Another project is a study of the impact of the Three Gorges Navigation Quasi-Natural Experiment on economic development.
 {style="text-align: justify;"}
