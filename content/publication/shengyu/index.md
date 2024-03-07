@@ -48,7 +48,6 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'content/publication/shengyu/shengyu.pdf'
-url_link: https://www.amazon.com/Complexity-Thinking-Chinas-Demography-Mainland/dp/9819701716
 
 
 
