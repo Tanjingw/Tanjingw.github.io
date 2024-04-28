@@ -32,7 +32,7 @@ sections:
       subtitle:
       # Contact (add or remove contact options as necessary)
       email: tjw@henu.edu.cn
-      directions: Øster Farimagsgade 5, DK-1353, Copenhagen K, Denmark
+      directions: John M. Keynes, 1-11, 08034, Barcelona.
     design:
       columns: '2'
 ---
