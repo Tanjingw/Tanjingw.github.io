@@ -14,29 +14,32 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Department of Economics
+role: School of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Copenhagen
-    url: https://www.economics.ku.dk/research/top_publications/
+  - name: University of Barcelona
+    url: https://www.ub.edu/school-economics/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Microeconometrics, Demographic and Policy Evaluation.
+bio: My research interests include Microeconometrics, Development and Labour Economics.
 
 # Interests to show in About widget
 interests:
   - Microeconometrics
-  - Demographic
+  - Development Economics
   - Policy Evaluation
   - Labor Economics
 # Education to show in About widget
 education:
   courses:
-    - course: Postgraduate in Economics
+    - course: PhD Candidate in Economics
+      institution: University of Barcelona
+      year: 2024-Current
+    - course: MSc. in Economics
       institution: University of Copenhagen
-      year: 2022-Current
-    - course: Bachelor of Economics
+      year: 2022-2024
+    - course: B.A. Economics
       institution: Henan University
       year: 2018-2022
 
@@ -75,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a postgraduate student at University of Copenhagen and my main research is Demographics and Labor Economics. Specifically, my recent research is based on China Migrants Dynamics Survey to investigate the impact of urban characteristics on the social behaviour of migrants. Another project is a study of the impact of the Three Gorges Navigation Quasi-Natural Experiment on economic development.
+I am a PhD candidate at University of Barcelona and my main research is in field of Development and Labor Economics. Specifically, my recent research is based on China Migrants Dynamics Survey to investigate the social behavior of migrants. Another project is a study of the impact of the Three Gorges Navigation Quasi-Natural Experiment on economic development.
 {style="text-align: justify;"}
