@@ -26,9 +26,9 @@ bio: My research interests include Microeconometrics, Development and Labour Eco
 
 # Interests to show in About widget
 interests:
-  - Microeconometrics
+  - Macroeconomics Theory
   - Development Economics
-  - Policy Evaluation
+  - Urban Economics
   - Labor Economics
 # Education to show in About widget
 education:
@@ -36,10 +36,10 @@ education:
     - course: PhD Candidate in Economics
       institution: University of Barcelona
       year: 2024-Current
-    - course: MSc. in Economics
+    - course: MSc Economics
       institution: University of Copenhagen
       year: 2022-2024
-    - course: B.A. Economics
+    - course: BA Economics
       institution: Henan University
       year: 2018-2022
 
