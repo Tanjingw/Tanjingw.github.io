@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content/publication/cisai/cisai.pdf'
+
 
 
 
