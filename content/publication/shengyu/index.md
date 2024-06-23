@@ -16,7 +16,7 @@ author_notes:
 
 
 date: '2023-01-01T00:00:00Z'
-doi: 'https://doi.org/10.1109/CISAI54367.2021.00060](https://doi.org/10.1007/978-981-97-0172-8_8'
+doi: 'https://doi.org/10.1007/978-981-97-0172-8_8'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-01-01T00:00:00Z'
