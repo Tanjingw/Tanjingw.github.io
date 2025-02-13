@@ -78,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD candidate at University of Barcelona and my main research is in field of Development and Labor Economics. Specifically, my recent research is based on China Migrants Dynamics Survey to investigate the social behavior of migrants. Another project is a study of the impact of the Three Gorges Navigation Quasi-Natural Experiment on economic development. My PhD research revolved around extensions of the OLG model and analyses of social mobility based on structure model.
+I am a PhD candidate at University of Barcelona and Barcelona Economics Analysis Team (BEAT), my main research is in field of Development and Labor Economics. Specifically, my recent research is based on China Migrants Dynamics Survey to investigate the social behavior of migrants. Another project is a study of the impact of the Three Gorges Navigation Quasi-Natural Experiment on economic development. My PhD research revolved around extensions of the OLG model and analyses of social mobility based on structure model.
 {style="text-align: justify;"}
